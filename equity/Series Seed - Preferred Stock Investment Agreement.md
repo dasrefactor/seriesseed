@@ -1,13 +1,13 @@
 [COMPANY NAME]
 # SERIES SEED PREFERRED STOCK INVESTMENT AGREEMENT
 
-This Series Seed Preferred Stock Investment Agreement (this "Agreement") is dated as of the Agreement Date and is between the Company, the Purchasers and the Key Holders.
+This Series Seed Preferred Stock Investment Agreement (this "Agreement") is dated as of the Agreement Date and is between the Company, the Purchasers and the Founders.
 
 The parties agree as follows:
 
 1.  DEFINITIONS. Capitalized terms used and not otherwise defined in this Agreement or the Exhibits and Schedules to this Agreement have the meanings set forth in Exhibit A.
 
-2.  INVESTMENT. Subject to the terms and conditions of this Agreement, including the Agreement Terms set forth in Exhibit B, (i) each Purchaser will purchase at the applicable Closing and the Company will sell and issue to such Purchaser at such Closing that number of shares of Series Seed Preferred Stock set forth opposite such Purchaser's name on Schedule 1, at a price per share equal to the Purchase Price and (ii) each Purchaser, the Company, and each Key Holder agrees to be bound by the obligations set forth in this Agreement and to grant to the other parties to this Agreement the rights set forth in this Agreement.    
+2.  INVESTMENT. Subject to the terms and conditions of this Agreement, including the Agreement Terms set forth in Exhibit B, (i) each Purchaser will purchase at the applicable Closing and the Company will sell and issue to such Purchaser at such Closing that number of shares of Series Seed Preferred Stock set forth opposite such Purchaser's name on Schedule 1, at a price per share equal to the Purchase Price and (ii) each Purchaser, the Company, and each Founder agrees to be bound by the obligations set forth in this Agreement and to grant to the other parties to this Agreement the rights set forth in this Agreement.    
 
 3.  ENTIRE AGREEMENT.  This Agreement (including the Exhibits and Schedules to this Agreement) together with the Restated Certificate constitute the full and entire understanding and agreement between the parties with respect to the subject matter hereof, and any other written or oral agreement relating to the subject matter hereof existing between the parties is expressly canceled.
 
@@ -37,7 +37,7 @@ The parties agree as follows:
 
 "Major Purchaser Dollar Threshold" means *$____________.*
 
-"Purchase Price" means *$____________* per share [(subject to any applicable discounts where all or a portion of such Purchase Price is being paid by cancellation or conversion of indebtedness or other convertible securities of the Company issued primarily for capital raising purposes (e.g., simple agreement for future equity) to such Purchaser)].
+"Purchase Price" means *$____________* per share.*
 
 "Total Series Seed Investment Amount" means *$____________.*
 
@@ -57,7 +57,7 @@ The parties agree as follows:
 
 # SCHEDULE 1
 
-# SCHEDULE OF PURCHASERS & KEY HOLDERS
+# SCHEDULE OF PURCHASERS & FOUNDERS
 
 ## PURCHASERS:
 
@@ -105,8 +105,8 @@ Name, Address and E-Mail of Purchaser / Series Seed Preferred Stock Shares Purch
 
 20:
 
-KEY HOLDERS:
-Name, Address and E-Mail of Key Holder / Shares of Common Stock Held
+FOUNDERS:
+Name, Address and E-Mail of Founder / Shares of Common Stock Held
 
 1:
 
@@ -168,7 +168,7 @@ The Company is a corporation duly organized, validly existing and in good standi
 
 2.2.2 There are no outstanding preemptive rights, options, warrants, conversion privileges or rights (including rights of first refusal or similar rights), orally or in writing, to purchase or acquire any securities from the Company including, without limitation, any shares of Common Stock, Preferred Stock or any securities convertible into or exchangeable or exercisable for shares of Common Stock or Preferred Stock, except for (a) the conversion privileges of Series Seed Preferred Stock pursuant to the terms of the Restated Certificate and (b) the securities and rights described in this Agreement.
 
-2.2.3 The Key Holders set forth on Schedule 1 (each a "Key Holder") hold that number of shares of Common Stock set forth opposite each Key Holder's name in Section 2.2.3 of the Disclosure Schedule (such shares, the "Key Holder Shares"). The Key Holder Shares are subject to vesting and/or the Company's repurchase right on the terms specified in Section 2.2.3 of the Disclosure Schedule (the "Key Holder Vesting Schedules"). Except as specified in Section 2.2.3 of the Disclosure Schedule, the Key Holders do not own or have any other rights to any other securities of the Company. The Key Holder Vesting Schedules set forth in Section 2.2.3 of the Disclosure Schedule specify for each Key Holder (i) the vesting commencement date for each issuance of shares to or options held by the Key Holder, (ii) the number of shares or options held by the Key Holder that are currently vested, (iii) the number of shares or options held by the Key Holder that remain subject to vesting and/or the Company's repurchase right and (iv) the terms and conditions, if any, under which the Key Holder Vesting Schedules would be accelerated. Other than the Key Holder Shares, which vest pursuant to the applicable Key Holder Vesting Schedules, (x) all options granted and Common Stock outstanding vest as follows: 25% of the shares vest one  year following the vesting commencement date, with the remaining 75% vesting in equal installments over the next three years and (y) no stock plan, stock purchase, stock option or other agreement or understanding between the Company and any holder of any equity securities or rights to purchase equity securities provides for acceleration or other changes in the vesting provisions or other terms of such agreement or understanding as the result of (i) termination of employment (whether actual or constructive), (ii) any merger, consolidated sale of stock or assets, change in control, or any other transaction by the Company, or (iii) the occurrence of any other event or combination of events.  
+2.2.3 The Founders set forth on Schedule 1 (each a "Founder") hold that number of shares of Common Stock set forth opposite each Founder's name in Section 2.2.3 of the Disclosure Schedule (such shares, the "Founder Shares"). The Founder Shares are subject to vesting and/or the Company's repurchase right on the terms specified in Section 2.2.3 of the Disclosure Schedule (the "Founder Vesting Schedules"). Except as specified in Section 2.2.3 of the Disclosure Schedule, the Founders do not own or have any other rights to any other securities of the Company. The Founder Vesting Schedules set forth in Section 2.2.3 of the Disclosure Schedule specify for each Founder (i) the vesting commencement date for each issuance of shares to or options held by the Founder, (ii) the number of shares or options held by the Founder that are currently vested, (iii) the number of shares or options held by the Founder that remain subject to vesting and/or the Company's repurchase right and (iv) the terms and conditions, if any, under which the Founder Vesting Schedules would be accelerated. Other than the Founder Shares, which vest pursuant to the applicable Founder Vesting Schedules, (x) all options granted and Common Stock outstanding vest as follows: 25% of the shares vest one  year following the vesting commencement date, with the remaining 75% vesting in equal installments over the next three years and (y) no stock plan, stock purchase, stock option or other agreement or understanding between the Company and any holder of any equity securities or rights to purchase equity securities provides for acceleration or other changes in the vesting provisions or other terms of such agreement or understanding as the result of (i) termination of employment (whether actual or constructive), (ii) any merger, consolidated sale of stock or assets, change in control, or any other transaction by the Company, or (iii) the occurrence of any other event or combination of events.  
 
 #### 2.3 Subsidiaries.  
 
@@ -278,7 +278,7 @@ If the Company issues securities in its next equity financing after the date her
 
 #### 4.3 Assignment of Company's Preemptive Rights.  
 
-The Company will obtain at or prior to the Initial Closing, and will maintain, a right of first refusal with respect to transfers of shares of Common Stock by each holder thereof, subject to certain standard exceptions.  If the Company elects not to exercise its right of first refusal with respect to a proposed transfer of the Company's outstanding securities by any Key Holder, the Company will assign such right of first refusal to the Major Purchasers.  In the event of such assignment, each Major Purchaser will have a right to purchase that portion of the securities proposed to be transferred by such Key Holder equal to the ratio of (a) the number of shares of Common Stock issued or issuable upon conversion of the shares of Series Seed Preferred Stock owned by such Major Purchaser, to (b) the number of shares of Common Stock issued or issuable upon conversion of the shares of Series Seed Preferred Stock owned by all Major Purchasers.
+The Company will obtain at or prior to the Initial Closing, and will maintain, a right of first refusal with respect to transfers of shares of Common Stock by each holder thereof, subject to certain standard exceptions.  If the Company elects not to exercise its right of first refusal with respect to a proposed transfer of the Company's outstanding securities by any Founder, the Company will assign such right of first refusal to the Major Purchasers.  In the event of such assignment, each Major Purchaser will have a right to purchase that portion of the securities proposed to be transferred by such Founder equal to the ratio of (a) the number of shares of Common Stock issued or issuable upon conversion of the shares of Series Seed Preferred Stock owned by such Major Purchaser, to (b) the number of shares of Common Stock issued or issuable upon conversion of the shares of Series Seed Preferred Stock owned by all Major Purchasers.
 
 #### 4.4 Reservation of Common Stock.  
 
@@ -298,7 +298,7 @@ Notwithstanding the provisions of Section 5.1(a) and Section 5.1(b), no such reg
 
 #### 5.2 "Market Stand-Off" Agreement.  
 
- To the extent requested by the Company or an underwriter of securities of the Company, each Holder and Key Holder, and any transferee thereof (each, a "Stockholder"), shall not, without the prior written consent of the managing underwriters in the IPO (as defined below), offer, sell, make any short sale of, grant or sell any option for the purchase of, lend, pledge, otherwise transfer or dispose of (directly or indirectly), enter into any swap or other arrangement that transfers to another, in whole or in part, any of the economic consequences of ownership (whether any such transaction is described above or is to be settled by delivery of Securities or other securities, in cash, or otherwise), any Securities or other shares of stock of the Company then owned by such Stockholder, or enter into an agreement to do any of the foregoing,  for up to 180 days following the effective date of the registration statement of the initial public offering of the Company (the "IPO") filed under the Securities Act. For purposes of this Section 5.2, "Company" includes any wholly owned subsidiary of the Company into which the Company merges or consolidates. The Company may place restrictive legends on the certificates representing the shares subject to this Section 5.2 and may impose stop transfer instructions with respect to the Securities and such other shares of stock of each Stockholder (and the shares or securities of every other Person subject to the foregoing restriction) until the end of such period. Each Stockholder shall enter into any agreement reasonably required by the underwriters to the IPO to implement the foregoing within any reasonable timeframe so requested.  The underwriters for any IPO are intended third-party beneficiaries of this Section 5.2 and shall have the right, power and authority to enforce the provisions of this Section 5.2 as though they were parties hereto.
+ To the extent requested by the Company or an underwriter of securities of the Company, each Holder and KFounder, and any transferee thereof (each, a "Stockholder"), shall not, without the prior written consent of the managing underwriters in the IPO (as defined below), offer, sell, make any short sale of, grant or sell any option for the purchase of, lend, pledge, otherwise transfer or dispose of (directly or indirectly), enter into any swap or other arrangement that transfers to another, in whole or in part, any of the economic consequences of ownership (whether any such transaction is described above or is to be settled by delivery of Securities or other securities, in cash, or otherwise), any Securities or other shares of stock of the Company then owned by such Stockholder, or enter into an agreement to do any of the foregoing,  for up to 180 days following the effective date of the registration statement of the initial public offering of the Company (the "IPO") filed under the Securities Act. For purposes of this Section 5.2, "Company" includes any wholly owned subsidiary of the Company into which the Company merges or consolidates. The Company may place restrictive legends on the certificates representing the shares subject to this Section 5.2 and may impose stop transfer instructions with respect to the Securities and such other shares of stock of each Stockholder (and the shares or securities of every other Person subject to the foregoing restriction) until the end of such period. Each Stockholder shall enter into any agreement reasonably required by the underwriters to the IPO to implement the foregoing within any reasonable timeframe so requested.  The underwriters for any IPO are intended third-party beneficiaries of this Section 5.2 and shall have the right, power and authority to enforce the provisions of this Section 5.2 as though they were parties hereto.
 
 #### 5.3 Drag Along Right.
 
@@ -386,7 +386,7 @@ If any action at law or in equity (including arbitration) is necessary to enforc
 
 #### 8.8 Amendments and Waivers.  
 
-Except as specified in Section 1.2.2, any term of this Agreement may be amended, terminated or waived (either generally or in a particular instance and either retroactively or prospectively) only with the written consent of the Company and the Purchasers holding a majority of the then-outstanding shares of Series Seed Preferred Stock (or Common Stock issued on conversion thereof); provided, however, that any amendment to Section [[7.1][7.1(a)]] [or Section 7.1(c)] will also require the additional written consent of the holders of a majority of the outstanding shares of Common Stock then held by all of the Common Control Holders.  Notwithstanding the foregoing, the addition of a party to this Agreement in accordance with Section 5.5 or Section 8.1 will not require any further consent.  Any amendment or waiver effected in accordance with this Section 8.8 will be binding upon the Purchasers, the Key Holders, each transferee of the shares of Series Seed Preferred Stock (or Common Stock issuable upon conversion thereof) or Common Stock from a Purchaser or Key Holder, as applicable, and each future holder of all such securities, and the Company.  It is specifically intended that entering into the Next Financing Documents in a form substantially similar to the form agreements set as forth as Model Legal Documents on http://www.nvca.org will be considered an amendment to this Agreement provided that it is done in accordance with this Section 8.8.
+Except as specified in Section 1.2.2, any term of this Agreement may be amended, terminated or waived (either generally or in a particular instance and either retroactively or prospectively) only with the written consent of the Company and the Purchasers holding a majority of the then-outstanding shares of Series Seed Preferred Stock (or Common Stock issued on conversion thereof); provided, however, that any amendment to Section [[7.1][7.1(a)]] [or Section 7.1(c)] will also require the additional written consent of the holders of a majority of the outstanding shares of Common Stock then held by all of the Common Control Holders.  Notwithstanding the foregoing, the addition of a party to this Agreement in accordance with Section 5.5 or Section 8.1 will not require any further consent.  Any amendment or waiver effected in accordance with this Section 8.8 will be binding upon the Purchasers, the Founders, each transferee of the shares of Series Seed Preferred Stock (or Common Stock issuable upon conversion thereof) or Common Stock from a Purchaser or Founder, as applicable, and each future holder of all such securities, and the Company.  It is specifically intended that entering into the Next Financing Documents in a form substantially similar to the form agreements set as forth as Model Legal Documents on http://www.nvca.org will be considered an amendment to this Agreement provided that it is done in accordance with this Section 8.8.
 
 #### 8.9 Severability.  
 
@@ -418,7 +418,7 @@ By: *____________________________________________*
 Title: *____________________________________________*
 
 
-## KEY HOLDERS:
+## FOUNDERS:
 
 Name: *____________________________________________*
 
