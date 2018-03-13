@@ -18,7 +18,7 @@ Shares of a new series of preferred stock of the Company (the "Series Seed").
 
 ### Price Per Share:	
 
-Price per share (the "Original Issue Price"), based on a pre-money valuation of *$[_________]*. [The Convertible Securities will [not] be included in the pre-money shares for purposes of determining the Original Issue Price.]
+Price per share (the "Original Issue Price"), based on a pre-money valuation of *$[_________]*; there will be no option pool increase included in the Original Issue Price calculation.
 
 ### Liquidation Preference:	
 
@@ -26,19 +26,19 @@ One times the Original Issue Price plus declared but unpaid dividends on each sh
 
 ### Conversion:	
 
-Each shares of Series Seed is convertible into one share of Common Stock (subject to proportional adjustments for stock splits, stock dividends and the like) at any time at the option of the holder. [Conversion ratio will be subject to adjustment on a broad-based, weighted average basis in the event of subsequent issuances at a price less than the Original Issue Price (as adjusted) subject to customary exceptions.]
+Each shares of Series Seed is convertible into one share of Common Stock (subject to proportional adjustments for stock splits, stock dividends and the like) at any time at the option of the holder. 
 
 ### Voting Rights:	
 
-Votes together with the Common Stock on all matters on an as-converted basis.  Approval of a majority of the Preferred Stock required to (i) adversely change rights of the Preferred Stock; (ii) change the authorized number of shares; (iii) authorize a new series of Preferred Stock having rights senior to or on parity with the Preferred Stock; (iv) redeem or repurchase any shares (other than pursuant to employee or consultant agreements); (v) declare or pay any dividend; (vi) change the number of directors; or (vii) liquidate or dissolve, including any change of control.
+Votes together with the Common Stock on all matters on an as-converted basis.  Approval of a majority of the Preferred Stock required to (i) adversely change rights of the Preferred Stock; (ii) change the authorized number of shares; (iii) authorize a new series of Preferred Stock having rights senior to or on parity with the Preferred Stock; (iv) redeem or repurchase any shares (other than pursuant to employee or consultant agreements); or (v) declare or pay any dividend.
 
 ### Documentation:	
 
-This Term Sheet, and the related investment documents, have been prepared using industry-curated documents made available via an automated document generator located at https://cooleygo.com/seedequity/. The final documents used will be identical to such documents, except for the modifications set forth in this Term Sheet. 
+This Term Sheet, and the related investment documents, have been prepared using industry-curated documents made available via an automated document generator located at https://cooleygo.com/seedequity/dasrefactor/seriesseed. 
 
 ### Financial Information:	
 
-Purchasers who have invested at least *[$________]* ("Major Purchasers") will receive standard information and inspection rights.
+Purchasers who have invested at least *[$________]* ("Major Purchasers") will receive standard information and inspection rights in a customary management rights letter.
 
 ### Participation Right:	
 
@@ -56,10 +56,6 @@ The Series Seed will be given the same rights as the next series of Preferred St
 ### Key Holder Matters:	
 
 Each Key Holder shall have four years vesting beginning *[_______]*. Full acceleration upon "Double Trigger." Each Key Holder shall have assigned all relevant IP to the Company before closing.
-
-### Binding Terms:	
-
-For a period of 30 days, the Company will not solicit offers from other parties for any financing.  Without the consent of Purchasers, the Company will not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
 
 
 ------------
