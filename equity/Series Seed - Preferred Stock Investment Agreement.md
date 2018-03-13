@@ -7,7 +7,7 @@ The parties agree as follows:
 
 1.  DEFINITIONS. Capitalized terms used and not otherwise defined in this Agreement or the Exhibits and Schedules to this Agreement have the meanings set forth in Exhibit A.
 
-2.  INVESTMENT. Subject to the terms and conditions of this Agreement, including the Agreement Terms set forth in Exhibit B, (i) each Purchaser will purchase at the applicable Closing and the Company will sell and issue to such Purchaser at such Closing that number of shares of Series Seed Preferred Stock set forth opposite such Purchaser's name on Schedule 1, at a price per share equal to the Purchase Price [(subject to any applicable discounts where all or a portion of such Purchase Price is being paid by cancellation or conversion of indebtedness or other convertible securities of the Company issued primarily for capital raising purposes (e.g., simple agreement for future equity) to such Purchaser)] and (ii) each Purchaser, the Company, and each Key Holder agrees to be bound by the obligations set forth in this Agreement and to grant to the other parties to this Agreement the rights set forth in this Agreement.    
+2.  INVESTMENT. Subject to the terms and conditions of this Agreement, including the Agreement Terms set forth in Exhibit B, (i) each Purchaser will purchase at the applicable Closing and the Company will sell and issue to such Purchaser at such Closing that number of shares of Series Seed Preferred Stock set forth opposite such Purchaser's name on Schedule 1, at a price per share equal to the Purchase Price and (ii) each Purchaser, the Company, and each Key Holder agrees to be bound by the obligations set forth in this Agreement and to grant to the other parties to this Agreement the rights set forth in this Agreement.    
 
 3.  ENTIRE AGREEMENT.  This Agreement (including the Exhibits and Schedules to this Agreement) together with the Restated Certificate constitute the full and entire understanding and agreement between the parties with respect to the subject matter hereof, and any other written or oral agreement relating to the subject matter hereof existing between the parties is expressly canceled.
 
@@ -33,19 +33,7 @@ The parties agree as follows:
 
 "Stock Plan" means *________________________________________________.*
 
-### 2. BOARD COMPOSITION DEFINITIONS.
-
-"Board Designee" means any member of the Board designated pursuant to Section 7 of this Agreement.
-
-"Common Board Member Count" means *______.*
-
-"Mutual Consent Board Member Count" means *______.*
-
-"Series Seed Board Member Count" means *______.*
-
-"Common Control Holders" means the Key Holders [who are then providing services to the Company as employees].
-
-### 3. TERM SHEET DEFINITIONS.
+### 2. TERM SHEET DEFINITIONS.
 
 "Major Purchaser Dollar Threshold" means *$____________.*
 
