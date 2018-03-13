@@ -44,12 +44,6 @@ Purchasers who have invested at least *[$________]* ("Major Purchasers") will re
 
 Major Purchasers will have the right to participate on a pro rata basis in subsequent issuances of equity securities.
 
-### Board of Directors:	
-
-The Board of Directors will consist of *[___]* members as follows: 
-* Holders of Common Stock will have the right to elect *[___]* member[s] of the Board of Directors, initially [insert name(s)].
-* [Holders of a majority of Series Seed will have the right to elect *[___]* member[s] of the Board of Directors, initially [insert name(s)][vacant].]
-* [Holders of Common Stock and Series Seed, voting together as a single class, will have the right to elect *[___]* member[s] of the Board of Directors, initially [insert name(s)][vacant].]
 
 ### Expenses:	
 
