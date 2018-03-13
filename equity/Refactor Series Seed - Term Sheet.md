@@ -18,7 +18,7 @@ Shares of a new series of preferred stock of the Company (the "Series Seed").
 
 ### Price Per Share:	
 
-Price per share (the "Original Issue Price"), based on a pre-money valuation of *$[_________]*, including an available option pool of *[___]*% of the post-money fully diluted capital of the Company. [The Convertible Securities will [not] be included in the pre-money shares for purposes of determining the Original Issue Price.]
+Price per share (the "Original Issue Price"), based on a pre-money valuation of *$[_________]*. [The Convertible Securities will [not] be included in the pre-money shares for purposes of determining the Original Issue Price.]
 
 ### Liquidation Preference:	
 
@@ -53,7 +53,7 @@ The Board of Directors will consist of *[___]* members as follows:
 
 ### Expenses:	
 
-Company to reimburse counsel to Purchasers for a flat fee of $[10,000].
+Company to reimburse counsel to Purchasers for a flat fee of $10,000.
 
 ### Future Rights:	
 
