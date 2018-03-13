@@ -53,9 +53,9 @@ Company to reimburse counsel to Purchasers for a flat fee of $10,000.
 
 The Series Seed will be given the same rights as the next series of Preferred Stock (with appropriate adjustments for economic terms).
 
-### Key Holder Matters:	
+### Founder Vesting:	
 
-Each Key Holder shall have four years vesting beginning *[_______]*. Full acceleration upon "Double Trigger." Each Key Holder shall have assigned all relevant IP to the Company before closing.
+Each Founder shall have four years vesting beginning *[_______]*, with full acceleration upon "Double Trigger." 
 
 
 ------------
@@ -70,7 +70,7 @@ Title:
 
 Date: 
 
-## LEAD INVESTOR: 	
+## Refactor Capital, L.P.: 	
 
 Name:  	
 
