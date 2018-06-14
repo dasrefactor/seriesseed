@@ -34,7 +34,7 @@ Votes together with the Common Stock on all matters on an as-converted basis.  A
 
 ### Documentation:	
 
-This Term Sheet, and the related investment documents, have been prepared using industry-curated documents made available via an automated document generator located at https://cooleygo.com/seedequity/dasrefactor/seriesseed. 
+This Term Sheet, and the related investment documents, have been prepared using industry-curated documents made available via an automated document generator located at https://cooleygo.com/seedequity/seriesseed. 
 
 ### Financial Information:	
 
