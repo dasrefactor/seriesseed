@@ -34,7 +34,7 @@ Votes together with the Common Stock on all matters on an as-converted basis.  A
 
 ### Documentation:	
 
-This Term Sheet, and the related investment documents, have been prepared using (and are based on) industry-curated documents made available at seriesseed.com. 
+This Term Sheet, and the related investment documents, have been prepared using (and are based on) industry-curated documents made available at https://github.com/dasrefactor/seriesseed. 
 
 ### Financial Information:	
 
@@ -47,7 +47,7 @@ Major Purchasers will have the right to participate on a pro rata basis in subse
 
 ### Expenses:	
 
-Company to reimburse counsel to Purchasers for a flat fee of $10,000.
+Company to reimburse counsel to Refactor Capital for a flat fee of $10,000.
 
 ### Future Rights:	
 
