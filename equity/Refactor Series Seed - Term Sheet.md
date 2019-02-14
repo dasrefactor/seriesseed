@@ -44,11 +44,6 @@ Purchasers who have invested at least *[$________]* ("Major Purchasers") will re
 
 Major Purchasers will have the right to participate on a pro rata basis in subsequent issuances of equity securities.
 
-
-### Expenses:	
-
-Company to reimburse counsel to Refactor Capital for a flat fee of $10,000.
-
 ### Future Rights:	
 
 The Series Seed will be given the same rights as the next series of Preferred Stock (with appropriate adjustments for economic terms).
